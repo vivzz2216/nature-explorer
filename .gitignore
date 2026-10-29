@@ -1,0 +1,13 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies & Build Scratch
+node_modules/
+motion/node_modules/
+work/
+
+# Tool & Inspection Artifacts
+.taste-skill/
+.impeccable/
