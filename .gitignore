@@ -11,3 +11,7 @@ work/
 # Tool & Inspection Artifacts
 .taste-skill/
 .impeccable/
+
+
+.vercel
+.env*
